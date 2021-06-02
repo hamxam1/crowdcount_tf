@@ -48,3 +48,12 @@ All the required dependencies can be install by running the command `pip install
 - Results will be saved in `./results`
 
 ***
+
+***
+
+### Contact Me
+
+-For any Query Contact me at hamxam1@gmail.com
+
+
+***
